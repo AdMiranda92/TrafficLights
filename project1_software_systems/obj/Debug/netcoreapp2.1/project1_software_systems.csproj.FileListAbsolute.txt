@@ -1,0 +1,10 @@
+/Users/amiranda/Projects/project1_software_systems/project1_software_systems/bin/Debug/netcoreapp2.1/project1_software_systems.deps.json
+/Users/amiranda/Projects/project1_software_systems/project1_software_systems/bin/Debug/netcoreapp2.1/project1_software_systems.runtimeconfig.json
+/Users/amiranda/Projects/project1_software_systems/project1_software_systems/bin/Debug/netcoreapp2.1/project1_software_systems.runtimeconfig.dev.json
+/Users/amiranda/Projects/project1_software_systems/project1_software_systems/bin/Debug/netcoreapp2.1/project1_software_systems.dll
+/Users/amiranda/Projects/project1_software_systems/project1_software_systems/bin/Debug/netcoreapp2.1/project1_software_systems.pdb
+/Users/amiranda/Projects/project1_software_systems/project1_software_systems/obj/Debug/netcoreapp2.1/project1_software_systems.csprojAssemblyReference.cache
+/Users/amiranda/Projects/project1_software_systems/project1_software_systems/obj/Debug/netcoreapp2.1/project1_software_systems.AssemblyInfoInputs.cache
+/Users/amiranda/Projects/project1_software_systems/project1_software_systems/obj/Debug/netcoreapp2.1/project1_software_systems.AssemblyInfo.cs
+/Users/amiranda/Projects/project1_software_systems/project1_software_systems/obj/Debug/netcoreapp2.1/project1_software_systems.dll
+/Users/amiranda/Projects/project1_software_systems/project1_software_systems/obj/Debug/netcoreapp2.1/project1_software_systems.pdb
